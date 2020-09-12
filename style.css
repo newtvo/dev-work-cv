@@ -59,4 +59,24 @@ body {
     right: 80%;
 }
 
+.menubar-about {
+    margin-top: 25px;
+    margin-right: 8px;
+    color: #AEF78E;
+    float: right;
+    text-align: right;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.menubar-about a:visited {
+    color: #AEF78E;
+    text-decoration: none;
+}
+/* unvisited link */
+.menubar-about a:link, 
+.menubar-about a:hover, .menubar-about a:active {
+    color: #AEF78E;
+    text-decoration: none;
+}
 
