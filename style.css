@@ -1,0 +1,62 @@
+body {
+    background-color: #2E4057;
+    font-family: 'Andale Mono';
+}
+
+.name {
+    color: #AEF78E;
+    float: left;
+    padding-top: 5px;
+    padding-left: 15px;
+    font-size: 24px;
+}
+
+.menuBar {
+    color: #AEF78E;
+    float: right;
+    text-align: right;
+    font-size: 18px;
+}
+
+.intro {
+    color: #AEF78E;
+    font-size: 50px;
+    position: fixed;
+    top: 40%;
+    left: 30%;
+    right: 30%;
+    text-align: center;
+    word-spacing: 5px;
+}
+
+.menuBar a:visited {
+    color: #AEF78E;
+    text-decoration: none;
+}
+/* unvisited link */
+.menuBar a:link, 
+.menuBar a:hover, .menuBar a:active {
+    color: #AEF78E;
+    text-decoration: none;
+}
+
+.col-md-7 {
+    color: #AEF78E;
+    font-size: 18px;    
+    position: fixed;
+    top: 40%;
+    left: 20%;
+    right: 30%;
+    line-height: 45px;
+}
+
+.col-md-5 {
+    color: #b5e3ff;
+    text-decoration: underline;
+    position: fixed;
+    top: 25%;
+    left: 45%;
+    right: 80%;
+}
+
+
